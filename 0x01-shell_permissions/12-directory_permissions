@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m drwxr-x--x dir_ALX
+mkdir -m 755 dir_ALX
