@@ -21,3 +21,4 @@ Displays the content of /etc/passwd and /etc/hosts
 20-hiago Create a script that removes all letters c and C from input.
 21-reverse Write a script that reverse its input.
 Displays all users and their home directories, sorted by users
+100-empty_casks Finds all empty files and directories in the current directory and all sub-directories
